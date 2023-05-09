@@ -6,7 +6,7 @@ A demo app that can be deployd to a Kubernetes cluster. It displays a message, a
 
 | Method | Path | Description |
 | -------| ---- | ----------- |
-| GET    | /    | Displays message, pod and node details |
+| GET    | /    | Displays message, pod and node details | 
 
 ## Configuration
 
